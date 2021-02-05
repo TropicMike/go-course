@@ -7,4 +7,5 @@ import (
 
 func main() {
 	fmt.Printf("runtime: %s\narchitecture: %s\n", runtime.GOOS, runtime.GOARCH)
+	fmt.Print("Yer momma")
 }
